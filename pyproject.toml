@@ -18,8 +18,8 @@ classifiers = [
     "Framework :: Streamlit"
 ]
 urls = { 
-    "Homepage" = "https://github.com/example/curio_pkg_draft1",
-    "Source" = "https://github.com/example/curio_pkg_draft1"
+    Homepage = "https://github.com/biomaverick/CURIO",
+    Source = "https://github.com/biomaverick/CURIO"
 }
 
 [tool.setuptools.packages.find]
