@@ -21,8 +21,8 @@ classifiers = [
 ]
 
 urls = { 
-  "homepage" = "https://github.com/biomaverick/CURIO",
-  "repository" = "https://github.com/biomaverick/CURIO"
+  homepage = "https://github.com/biomaverick/CURIO",
+  repository = "https://github.com/biomaverick/CURIO"
 }
 
 [tool.setuptools.packages.find]
