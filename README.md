@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/CURIO.png" alt="CURIO Logo" width="100%"/>
-</p>
-
 <h1 align="center">CURIO — Unified Bioinformatics Data Retrieval Dashboard</h1>
 
 <p align="center">
