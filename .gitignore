@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+*.egg-info/
+.eggs/
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
+**/.streamlit/**
+
+# Logs & cache
+*.log
+curio/logs/
+.cache/
+.cache_dir/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

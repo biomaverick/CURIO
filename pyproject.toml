@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "curio_pkg_draft1"
+version = "0.1.0"
+description = "CURIO — Streamlit Bioinformatics Dashboard integrating UniProt, NCBI Gene, PubMed, KEGG, Reactome, RCSB PDB, and STRING."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+authors = [{name = "CURIO Team", email = "info@example.com"}]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "Framework :: Streamlit"
+]
+urls = { 
+    "Homepage" = "https://github.com/example/curio_pkg_draft1",
+    "Source" = "https://github.com/example/curio_pkg_draft1"
+}
+
+[tool.setuptools.packages.find]
+include = ["curio*"]
