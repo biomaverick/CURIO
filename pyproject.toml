@@ -19,9 +19,10 @@ classifiers = [
   "Topic :: Scientific/Engineering :: Bio-Informatics",
   "Framework :: Streamlit"
 ]
+
 urls = { 
   "homepage" = "https://github.com/biomaverick/CURIO",
-  "source"   = "https://github.com/biomaverick/CURIO"
+  "repository" = "https://github.com/biomaverick/CURIO"
 }
 
 [tool.setuptools.packages.find]
